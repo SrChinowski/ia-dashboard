@@ -1,0 +1,2 @@
+export const SET_USERINFO = 'SET_USERINFO';
+export const GET_CLIENTINFO = 'GET_CLIENTINFO';
